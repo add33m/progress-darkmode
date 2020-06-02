@@ -1,7 +1,7 @@
 # Progress Dark Mode
  A dark mode for ThorenGruppen's Progress via the Stylus plugin for Firefox/Chrome/Opera
 
-## How do use
+## How to use
 
 1. Download the Stylus plugin for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/) or [Opera](https://addons.opera.com/en/extensions/details/stylus/). You can find the official website and source code for the plugin [here](https://add0n.com/stylus.html) if you don't trust it. (**DO NOT** USE THE "STYL*ISH*" PLUGIN, AS IT HAS MAJOR PRIVACY FLAWS)
 2. [Go to the page for this userstyle](https://userstyles.org/styles/175794/progress-dark-mode) and hit "Install Style". If you want to modify how your dark mode looks, refresh the page and click customize settings to open up the color pickers. When you are done, simply hit "Update Style". The styles will automagically be loaded into Progress without the need to refresh!
@@ -51,7 +51,7 @@ It is also customized for TIS schools since the original logo has black text and
 
 ## About
 I made this because I didn't like the default look of Progress. However, I am merely a student at the school and have no association with Thorengruppen.
-While using this style provides you with no security risks, it may contain bugs, and I am in no way responsible for how you use this.
+While using this style provides you with no security risks, it may contain bugs, and I am in no way responsible for how you use this or the effects of using it.
 FYI - this repo was made long after the original userstyle was published. That's why a lot of updates are missing in the commit history!
 
 [Click here to go to the official Userstyle I made at userstyles.org!](https://userstyles.org/styles/175794/progress-dark-mode)
