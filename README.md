@@ -22,6 +22,9 @@ It is also customized for TIS schools since the original logo has black text and
 
 ## Update log
 
+3/6 2020:
+- Changed link to TIS logo to use GitHub as host
+
 27/11 2019:
 - Fixed a bug where the tooltip on the IUP page had a white background
 
