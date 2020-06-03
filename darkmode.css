@@ -331,7 +331,7 @@
         background-color: var(--light);
     }
     .logo {
-        background-image: url(https://cdn.discordapp.com/attachments/503947787768168449/627302638047723521/thorrne.png)
+        background-image: url(https://raw.githubusercontent.com/add33m/progress-darkmode/master/tis-logo-darkmode.png)
     }
     .nav>li>a.nav-menu-left {
         color: var(--white);
